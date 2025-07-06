@@ -2,6 +2,8 @@
 
 This project showcases a 3D image carousel built entirely with HTML and CSS, without any JavaScript.
 
+[!image alt](https://github.com/dev0jha/Image_Animation/blob/f91d59a8fef37e4a43ab969c81641f214727477a/Screenshot%20(4).png)
+
 ## Features
 
 - 3D rotating image slider using only CSS animations and transforms
