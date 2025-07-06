@@ -20,7 +20,7 @@ This project showcases a 3D image carousel built entirely with HTML and CSS, wit
 
 The carousel uses CSS variables to position each image in a circular layout with `rotateY` and `translateZ`. The `.slider` element is animated with a keyframe to rotate the carousel infinitely.
 
-[!image alt](www.
+
 ## Usage
 
 1. Clone or download the repository.
